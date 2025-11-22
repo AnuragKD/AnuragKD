@@ -1,14 +1,14 @@
 # 🧑‍💻 Anurag KD
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Alchemist ( Developer / 3D Web Animator / Modern UI Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+I'm an indie frontend developer crafting immersive digital experiences through code, design, and animation. Every project I build starts from a blank canvas—planned, designed, and engineered to solve real-world problems with clean UI, smooth interactions, and meaningful creativity.
 
    <p align="left">
     <a href="https://your-portfolio-link.com">
       <img alt="Portfolio" title="Visit my Portfolio" src="https://custom-icon-badges.demolab.com/badge/PORTFOLIO-1E90FF?style=for-the-badge&logo=globe&logoColor=white" />
     </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
+    <a href="mailto:anurag95678@gmail.com">
       <img alt="Email" title="Contact Me" src="https://custom-icon-badges.demolab.com/badge/CONTACT-55960c?style=for-the-badge&logo=mail&logoColor=white" />
     </a>
   </p>
@@ -19,7 +19,7 @@ I'm an indie full-stack developer and content creator building my version of the
   <img src="https://skillicons.dev/icons?i=react,threejs,js,ts,tailwind,html,css,git,github,figma,nodejs" />
 </p>
 
-**Also comfortable with:** GSAP • Framer Motion • WebGL • Blender (3D assets) • REST APIs
+**Also comfortable with:** GSAP • Framer Motion • REST APIs 
 
 ---
 
@@ -64,6 +64,6 @@ I'm an indie full-stack developer and content creator building my version of the
 ## Social
 
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://www.linkedin.com/in/anurag-kd-3a3027202"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.instagram.com/anurag.kd_/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
