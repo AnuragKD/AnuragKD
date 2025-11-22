@@ -1,8 +1,8 @@
 # 🧑‍💻 Anurag KD
 
-**`Digital Alchemist ( Developer / 3D Web Animator / Modern UI Creator)`**
+**`( Developer / 3D Web Animator / Modern UI Creator)`**
 
-I'm an indie frontend developer crafting immersive digital experiences through code, design, and animation. Every project I build starts from a blank canvas—planned, designed, and engineered to solve real-world problems with clean UI, smooth interactions, and meaningful creativity.
+I'm an indie developer crafting immersive digital experiences through code, design, and animation. Every project I build starts from a blank canvas, planned, designed, and engineered to solve real-world problems with clean UI, smooth interactions, and meaningful creativity.
 
    <p align="left">
     <a href="https://your-portfolio-link.com">
@@ -16,7 +16,7 @@ I'm an indie frontend developer crafting immersive digital experiences through c
 ## Skill Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,threejs,js,ts,tailwind,html,css,git,github,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,next,threejs,js,ts,tailwind,html,css,git,github,figma,nodejs" />
 </p>
 
 **Also comfortable with:** GSAP • Framer Motion • REST APIs 
