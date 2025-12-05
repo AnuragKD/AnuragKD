@@ -25,7 +25,7 @@ I'm an indie developer crafting immersive digital experiences through code, desi
 
 ## Projects - showcase
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://mir-s3-cdn-cf.behance.net/projects/404/0a1f72235083933.Y3JvcCwxMzUyLDEwNTgsMjc0LDA.png" />
@@ -49,7 +49,7 @@ I'm an indie developer crafting immersive digital experiences through code, desi
       <i>Tags: React, GSAP</i>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
