@@ -23,7 +23,7 @@ I'm an indie developer crafting immersive digital experiences through code, desi
 
 ---
 
-## Projects - showcase
+<!-- ## Projects - showcase -->
 
 <!-- <table>
   <tr>
