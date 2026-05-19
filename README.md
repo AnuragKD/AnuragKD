@@ -2,7 +2,7 @@
 
 **`( Developer / 3D Web Animator / Modern UI Creator)`**
 
-I'm an indie developer crafting immersive digital experiences through code, design, and animation. Every project I build starts from a blank canvas, planned, designed, and engineered to solve real-world problems with clean UI, smooth interactions, and meaningful creativity.
+Frontend Engineer with 2+ years of experience building scalable web applications using React.js, Next.js, TypeScript, and modern JavaScript technologies. Passionate about frontend architecture, UI engineering, performance optimization, and creating seamless user experiences through clean and maintainable code.
 
    <p align="left">
     <a href="https://your-portfolio-link.com">
