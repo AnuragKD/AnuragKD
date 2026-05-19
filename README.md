@@ -1,6 +1,6 @@
 # 🧑‍💻 Anurag KD
 
-**`( Developer / 3D Web Animator / Modern UI Creator)`**
+**`( Software Developer / React.js / Next.js)`**
 
 Frontend Engineer with 2+ years of experience building scalable web applications using React.js, Next.js, TypeScript, and modern JavaScript technologies. Passionate about frontend architecture, UI engineering, performance optimization, and creating seamless user experiences through clean and maintainable code.
 
